@@ -4,7 +4,7 @@ Selamat datang di repositori **Wallpaper Anak Teknik**!
 Koleksi wallpaper bertema teknik untuk memotivasi, menginspirasi, dan memperindah layar perangkat Anda.
 
 ![Preview Wallpaper](Desktop-1.jpg)
-
+![Banner](Desktop-1.jpg)
 ## 🔧 Fitur
 - Kumpulan wallpaper bertema teknik.
 - Resolusi tinggi untuk desktop dan perangkat seluler.
